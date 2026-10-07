@@ -32,4 +32,4 @@ Questions it answers:
 
 - LinkedIn: (https://www.linkedin.com/in/steve-collins-b6ba4720b/)
 - Email: collinssteve100@gmail.com
-- Portfolio: <!-- https://collinssteve100-cell.github.io -->
+- Portfolio: https://collinssteve100-cell.github.io
