@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Steve Collins
 
-<!--
-**collinssteve100-cell/collinssteve100-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** working with SQL, Python, and BI tools to turn raw transactions into decisions people can act on.
 
-Here are some ideas to get you started:
+Based in Nairobi, Kenya. Open to data analyst roles. <!-- edit or remove -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+| Area | Tools |
+|---|---|
+| Querying | SQL |
+| Analysis | Python, Pandas, Matplotlib |
+| Dashboards | Looker Studio, Power BI, Excel |
+| Workflow | Git, GitHub |
+
+## Featured project
+
+### [Retail Sales & Customer Performance Analysis](https://github.com/collinssteve100-cell/retail-sales-analysis)
+
+End-to-end analysis of retail transactions: data profiling and cleaning in Python, business analysis in SQL, KPI and trend analysis, and dashboard-ready output.
+
+Questions it answers:
+- Which regions and product categories drive sales and profit?
+- Which customers generate the most value?
+- How do discounts affect profitability?
+
+**Key findings:** <!-- add 2-3 real numbers from your analysis, e.g. "Discounts above 20% pushed Furniture margin below zero" -->
+
+**Dashboard:** <!-- paste your Looker Studio / Power BI public link here -->
+
+## Contact
+
+- LinkedIn: <!-- [your LinkedIn URL](https://www.linkedin.com/in/steve-collins-b6ba4720b/) -->
+- Email: <!-- collinssteve100@gmail.com -->
+- Portfolio: <!-- https://collinssteve100-cell.github.io -->
