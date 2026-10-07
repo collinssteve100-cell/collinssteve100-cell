@@ -9,8 +9,8 @@ Based in Nairobi, Kenya. Open to data analyst roles. <!-- edit or remove -->
 | Area | Tools |
 |---|---|
 | Querying | SQL |
-| Analysis | Python, Pandas, Matplotlib |
-| Dashboards | Looker Studio, Power BI, Excel |
+| Analysis | Python, Pandas, Matplotlib, R |
+| Dashboards | Looker Studio, Power BI, Excel, LookML |
 | Workflow | Git, GitHub |
 
 ## Featured project
