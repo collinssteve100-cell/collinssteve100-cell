@@ -30,6 +30,6 @@ Questions it answers:
 
 ## Contact
 
-- LinkedIn: <!-- [your LinkedIn URL](https://www.linkedin.com/in/steve-collins-b6ba4720b/) -->
-- Email: <!-- collinssteve100@gmail.com -->
+- LinkedIn: (https://www.linkedin.com/in/steve-collins-b6ba4720b/)
+- Email: collinssteve100@gmail.com
 - Portfolio: <!-- https://collinssteve100-cell.github.io -->
